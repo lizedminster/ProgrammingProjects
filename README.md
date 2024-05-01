@@ -1,2 +1,2 @@
-# GGplot-Library
-This repository holds the code behind my GGplot exploration. 
+# R-Library
+This repository holds the code behind my R/Ggplot exploration. 
